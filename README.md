@@ -1,2 +1,2 @@
 # STAT5113
-Notes and Homeworks
+Statistical Inference(Giovanni Petris : Spring 2018)
