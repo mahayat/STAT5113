@@ -1,2 +1,2 @@
-# STAT-5113
+# SSTAT5113
 Notes and Homeworks
